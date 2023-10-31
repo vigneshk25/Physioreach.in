@@ -25,38 +25,46 @@ const Area = () => {
 
 
             <div className="py-[30px] px-5 border-[2px]">
+            <Link to='/AreaDoc' >
               <div className='flex items-center justify-center'>
                 <div className="bgImage text-[22px] md:text-[42px]  py-1 my-1 w-[300px] md:w-[700px] md:h-[400px] h-[200px] hover:scale-105 transition-all duration-500  cursor-pointer shadow-2xl" >
                   <h3 className='text-white text-center' >Rajarajeshwari Nagar </h3>
                 </div>
               </div>
+              </Link>
             </div>
 
 
             <div className="py-[30px] px-5 border-[2px]">
+            <Link to='/AreaDoc' >
               <div className='flex items-center justify-center'>
                 <div className="bgImage2 text-[22px] md:text-[42px]  py-1 my-1 w-[300px] md:w-[700px] md:h-[400px] h-[200px] border-[2px] hover:scale-105 transition-all duration-500  cursor-pointer shadow-2xl" >
                   <h3 className='text-white text-center' >Sundakatte </h3>
                 </div>
               </div>
+              </Link>
             </div>
 
 
             <div className="py-[30px] px-5 border-[2px]">
+            <Link to='/AreaDoc' >
               <div className='flex items-center justify-center'>
                 <div className="bgImage3 text-[22px] md:text-[42px]  py-1 my-1 w-[300px] md:w-[700px] md:h-[400px] h-[200px] border-[2px] hover:scale-105 transition-all duration-500  cursor-pointer shadow-2xl" >
                   <h3 className='text-white text-center' >Vijayanagar </h3>
                 </div>
               </div>
+              </Link>
             </div>
 
             
             <div className="py-[30px] px-5 border-[2px]">
+            <Link to='/AreaDoc' >
               <div className='flex items-center justify-center'>
                 <div className="bgImage4 text-[22px] md:text-[42px] py-1 my-1 w-[300px] md:w-[700px] md:h-[400px] h-[200px] border-[2px] hover:scale-105 transition-all duration-500  cursor-pointer shadow-2xl" >
                   <h3 className='text-white text-center' >Bidadi </h3>
                 </div>
               </div>
+              </Link>
             </div>
 
 

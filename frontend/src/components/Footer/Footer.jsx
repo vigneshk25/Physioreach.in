@@ -12,17 +12,14 @@ const socialLinks = [
     icon: <AiFillYoutube className='group-hover:text-white w-4 h-5' />,
   },
   {
-    path: 'https://www.youtube.com/@dr-Dps/featured',
+    path: 'https://instagram.com/drdps.in?igshid=OGQ5ZDc2ODk2ZA==',
     icon: <AiOutlineInstagram className='group-hover:text-white w-4 h-5' />,
   },
   {
     path: 'https://www.youtube.com/@dr-Dps/featured',
     icon: <AiFillFacebook className='group-hover:text-white w-4 h-5' />,
   },
-  {
-    path: 'https://www.youtube.com/@dr-Dps/featured',
-    icon: <AiFillFacebook className='group-hover:text-white w-4 h-5' />,
-  },
+
 ];
 
 const quickLinks01 = [

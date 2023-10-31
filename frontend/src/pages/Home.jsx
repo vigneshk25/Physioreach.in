@@ -193,7 +193,7 @@ So let's move to keep us moving"
               3. view our Experts who are accepting new patients, use the online scheduling tool to select an appointment time.
             </li>
           </ul>
-          <Link to="/"><button className='btn'>Learn more</button></Link>
+          {/* <Link to="/"><button className='btn'>Learn more</button></Link> */}
         </div>
 
       {/**========= feature img =================*/}
@@ -252,7 +252,7 @@ So let's move to keep us moving"
       <div className="container">
         <div className="flex justify-between gap-[50px] lg:gap-0">
           <div className="w-1/2 hidden md:block">
-            <img src={faqImg} alt="" />
+            <img src={heroImg01} alt="" />
           </div>
           <div className='w-full md:w-1/2'>
             <h2 className='heading'>Most questions by our beloved patients</h2>
